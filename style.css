@@ -1,0 +1,44 @@
+
+.hi{
+    
+    text-align: center;
+    
+    background-color: green;
+    font-size: 20px;
+    color: aliceblue;
+    padding: 10px 15px;
+}
+
+.im{    display: block;
+        float: left;    
+         margin:15px;
+         width: 30%;
+       
+}
+h3{
+    text-align: right;
+    font-size: 20px;
+    
+    
+
+}
+
+p{
+    text-align: justify;
+}
+
+h1{
+    text-align: center;
+    
+
+}
+h2{
+    text-align: left;
+    
+}
+p{
+    text-align: center;
+}
+body{
+    background-color: aquamarine;
+}
